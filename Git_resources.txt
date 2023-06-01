@@ -1,0 +1,13 @@
+Git/Github
+
+→ Command terminal interface and tools
+Terminal setup: https://www.youtube.com/watch?v=CF1tMjvHDRA
+https://www.josean.com/posts/terminal-setup
+
+→ Git / Github setup
+The odin project resources: https://www.theodinproject.com/lessons/foundations-setting-up-git
+
+→ Git basics
+Git for beginners by Mosh: https://www.youtube.com/watch?v=8JJ101D3knE
+Git basic linking to github: https://www.theodinproject.com/lessons/foundations-git-basics
+
