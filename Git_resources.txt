@@ -2,7 +2,7 @@ Git/Github
 
 → Command terminal interface and tools
 Terminal setup: https://www.youtube.com/watch?v=CF1tMjvHDRA
-https://www.josean.com/posts/terminal-setup
+                https://www.josean.com/posts/terminal-setup
 
 → Git / Github setup
 The odin project resources: https://www.theodinproject.com/lessons/foundations-setting-up-git
